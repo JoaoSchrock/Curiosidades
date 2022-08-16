@@ -22,7 +22,13 @@ denominado como Spring Framework, o Spring é um ecossistema de desenvolvimento 
 a criação de aplicações Java utilizando diversos módulos independentes.
 ```
 
+## IntelliJ
+```
+O IntelliJ IDEA permite trabalhar com elementos de código em outras linguagens incorporadas ao seu código.
+Você não notará a diferença entre sua experiência de trabalho com o código Java principal e sua experiência
+com o código injetado.
 
+```
 
 
 
