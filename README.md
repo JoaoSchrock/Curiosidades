@@ -1,5 +1,4 @@
-# Curiosidades
-
+# Perguntas Frequentes
 
 ## Postman
 ```
@@ -43,6 +42,93 @@ Spring Boot Dev Tools
 Spring Data JPA
 MySQL Driver
 Flyway Migration
+```
+
+## Etapas de um Projeto de Software
+```
+1- REQUISITOS:
+   - Levantamento de requisitos;
+   - Especificação de Requisitos;
+   - DER para a aprovação do cliente;
+
+2- PROJETO: 
+   - UML
+   - Diagrama de caso de uso
+   - Diagrama de Classe
+
+3- IMPLEMENTAÇÃO:
+   - 
+   - 
+
+4- HOMOLOGAÇÃO:
+   - 
+   - 
+
+5- IMPLANTAÇÃO:
+   - 
+   - 
+   
+```
+
+## Classe
+```
+Uma classe é um elemento do código Java que utilizamos para representar objetos do mundo
+real. Dentro dela é comum declararmos atributos e métodos, que representam, respectivamente, 
+as características e comportamentos desse objeto.
+```
+
+## Java
+```
+A principal função do Java é construir aplicações em rede, como jogos e programas. Ou seja, um programador Java
+consegue projetar softwares que podem ser operados e distribuídos em múltiplas plataformas, como mac, windows e 
+linux sem a necessidade de modificá-los e, inclusive, sem pensar na arquitetura da máquina.
+
+```
+
+## Xampp
+```
+O objetivo do XAMPP é construir uma distribuição fácil de instalar para desenvolvedores entrarem no mundo do Apache.
+Para torná-lo conveniente para os desenvolvedores, o XAMPP é configurado com todos os recursos ativados.
+
+```
+
+## Apache
+```
+O Apache é um servidor de código aberto e nome oficial é Apache HTTP Server, mantido pela Apache Software 
+Foundation, e alimenta cerca de 46% de todos os sites hospedados na internet. O Apache permite que donos 
+de sites mostrem e mantenham seus conteúdos na internet – daí o nome de “servidor de internet”.
+
+```
+
+## MariaDB
+```
+O banco de dados MariaDB é um servidor de banco de dados que pode ser usado com Linux e Windows.
+Os dados incluídos no servidor podem ser organizados de forma estruturada. Com o software, é possível
+gerenciar as informações de forma eficiente e organizada.
+
+
+```
+
+## MariaDB VS MySQL
+```
+MariaDB é totalmente licenciada com GPL, enquanto o MySQL tem uma abordagem de dupla licença. 
+Cada lida com pools de thread de uma maneira diferente. MariaDB suporta muitos mecanismos de armazenamento
+diferentes. Em muitos cenários, o MariaDB oferece melhor desempenho.
+
+```
+
+## Portugol
+```
+Portugol é uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português 
+de forma relativamente mais simples e intuitiva, independentemente de linguagem de programação verdadeiras.
+Emprega-se a técnica de refinamentos sucessivos.
+```
+
+## String
+```
+Strings são cadeias de caracteres que armazenam dados textuais e, portanto, podem armazenar informações 
+para as mais diversas finalidades. O conteúdo de uma string pode representar um fato em si, ou uma informação.
+
 ```
 
 
