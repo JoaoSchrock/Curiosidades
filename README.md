@@ -30,6 +30,13 @@ com o código injetado.
 
 ```
 
+## Spring Initializr
+```
+SPRING INITIALIZR fornece uma interface web bem simples para o usuário. Podendo gerar 
+seu projeto a partir de uma estrutura de configurações pré-moldadas. São configurações 
+de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
+```
+
 
 
 
