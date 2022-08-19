@@ -199,6 +199,92 @@ a pasta desejada
 
 - ### [17 - Spring Boot 2 Essentials 16 - Request Params](https://www.youtube.com/watch?v=juVa6LYSYKg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=17/)
 ---
+
+- ### [18 - Spring Boot 2 Essentials 17 - Exceções Customizadas](https://www.youtube.com/watch?v=1CJPEhgrxOU&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=18/)
+---
+
+- ### [19 - Spring Boot 2 Essentials 18 - Handler Global](https://www.youtube.com/watch?v=TpXirJnXa-8&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=19/)
+---
+
+- ### [20 - Spring Boot 2 Essentials 19 - Transações](https://www.youtube.com/watch?v=zYz6zt3SNMQ&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=20/)
+---
+
+- ### [21 - Spring Boot 2 Essentials 20 - Validação de campos](https://www.youtube.com/watch?v=fatUfpFROSo&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=21/)
+---
+
+- ### [22 - Spring Boot 2 Essentials 21 - Handler para validação de campos](https://www.youtube.com/watch?v=tRb_OscShmc&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=22/)
+---
+
+- ### [23 - Spring Boot 2 Essentials 22 - Sobrescrevendo handler do Spring](https://www.youtube.com/watch?v=UgO1fdvOFBk&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=23/)
+---
+
+- ### [24 - Spring Boot 2 Essentials 23 - Paginação](https://www.youtube.com/watch?v=ongEOYHl-6o&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=24/)
+---
+
+- ### [25 - Spring Boot 2 Essentials 24 - WebMvcConfigurer](https://www.youtube.com/watch?v=1_Bp3JFZ4Cs&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=25/)
+---
+
+- ### [26 - Spring Boot 2 Essentials 25 - Sorting, Log SQL](https://www.youtube.com/watch?v=mg8zkaPQPxs&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=26/)
+---
+
+- ### [27 - Spring Boot 2 Essentials 26 - RestTemplate getForObject e getForEntity](https://www.youtube.com/watch?v=Qnxv6ovn3Xc&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=27/)
+---
+
+- ### [28 - Spring Boot 2 Essentials 27 - RestTemplate exchange](https://www.youtube.com/watch?v=f93kYkmIyPo&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=28/)
+---
+
+- ### [29 - Spring Boot 2 Essentials 28 - RestTemplate POST](https://www.youtube.com/watch?v=IW0ZIuPhrk0&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=29/)
+---
+
+- ### [30 - Spring Boot 2 Essentials 29 - RestTemplate PUT and DELETE](https://www.youtube.com/watch?v=wSRt8bJxeDU&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=30/)
+---
+
+- ### [31 - Spring Boot 2 Essentials 30 - Spring Data JPA Test pt 01](https://www.youtube.com/watch?v=wBne8fRvsxw&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=31/)
+---
+
+- ### [32 - Spring Boot 2 Essentials 31 - Spring Data JPA Test pt 02](https://www.youtube.com/watch?v=UZgnPfeeXHE&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=32/)
+---
+
+- ### [33 - Spring Boot 2 Essentials 32 - Spring Data JPA Test pt 03 - Exceções](https://www.youtube.com/watch?v=GycZEsrEDG0&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=33/)
+---
+
+- ### [34 - Spring Boot 2 Essentials 33 - Unit Tests pt 01](https://www.youtube.com/watch?v=XuAd2LHNjzY&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=34/)
+---
+
+- ### [35 - Spring Boot 2 Essentials 34 - Unit Tests pt 02](https://www.youtube.com/watch?v=b80Xqg4aFOQ&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=35/)
+---
+
+- ### [36 - Spring Boot 2 Essentials 35 - Unit Tests pt 03](https://www.youtube.com/watch?v=bWbzpsePKdk&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=36/)
+---
+
+- ### [37 - Spring Boot 2 Essentials 36 - Testes de Integração pt 01](https://www.youtube.com/watch?v=TREezi_evWc&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=37/)
+---
+
+- ### [38 - Spring Boot 2 Essentials 37 - Testes de Integração pt 02](https://www.youtube.com/watch?v=BFGKTdh8y1U&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=38/)
+---
+
+- ### [39 - Spring Boot 2 Essentials 38 - Maven Profile Para Testes de Integração](https://www.youtube.com/watch?v=kb0b6d9Nayk&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=39/)
+---
+
+- ### [40 - Spring Boot 2 Essentials 33 - Unit Tests pt 01](https://www.youtube.com/watch?v=XuAd2LHNjzY&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=34/)
+---
+
+- ### [41 - Spring Boot 2 Essentials 40 - Spring Security pt 01 - CSRF Token](https://www.youtube.com/watch?v=lOzQnC4tRRI&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=41/)
+---
+
+- ### [42 - Spring Boot 2 Essentials 41 - Spring Security pt 02 - Segurança a nível de métodos com PreAuthori](https://www.youtube.com/watch?v=4zrOtObXkK0&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=42/)
+---
+
+- ### [43 - Spring Boot 2 Essentials 36 - Testes de Integração pt 01](https://www.youtube.com/watch?v=TREezi_evWc&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=37/)
+---
+
+- ### [44 - Spring Boot 2 Essentials 37 - Testes de Integração pt 02](https://www.youtube.com/watch?v=BFGKTdh8y1U&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=38/)
+---
+
+- ### [45 - Spring Boot 2 Essentials 38 - Maven Profile Para Testes de Integração](https://www.youtube.com/watch?v=kb0b6d9Nayk&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=39/)
+---
+
+
 </p>
 
 </details>
