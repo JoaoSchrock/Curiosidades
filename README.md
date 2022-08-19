@@ -137,6 +137,14 @@ Canal que tem um material muito bom de Spring
 
 ```
 
+## Codigo para Postman
+```
+( localhost:8080/'nome da classe' )
+
+-> você irá usar na hora de  mexer no seu postman, colocará essa frase para acessar
+a pasta desejada
+
+```
 
 
 
