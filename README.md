@@ -145,7 +145,61 @@ Canal que tem um material muito bom de Spring
 a pasta desejada
 
 ```
+## Spring Boot Essentials 2 (DevDojo)
 
+<details><summary>Clique e Acesse</summary>
 
+- ### [1 - Spring Boot 2 Essentials - Introdução ao curso](https://www.youtube.com/watch?v=bCzsSXE4Jzg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=1/)
+---
 
+- ### [2 - Spring Boot 2 Essentials - O que é Spring Boot](https://www.youtube.com/watch?v=aspWYs8lp48&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=2/)
+---
+
+- ### [3 - Spring Boot 2 Essentials - Criando projeto na pedreiragem pt 01](https://www.youtube.com/watch?v=w8I7jWfUFLg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=3/)
+---
+
+- ### [4 - Spring Boot 2 Essentials - Criando projeto na pedreiragem pt 02](https://www.youtube.com/watch?v=szrqiHLbUq0&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=4/)
+---
+
+- ### [5 - Spring Boot 2 Essentials 04 - @Component, @Autowired, @SpringBootApplication](https://www.youtube.com/watch?v=4sndRmKpMYI&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=5/)
+---
+
+- ### [6 - Spring Boot 2 Essentials 05 - Hot Swap com Spring Boot Devtools](https://www.youtube.com/watch?v=8W8t2yh8CD4&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=6/)
+---
+
+- ### [7 - Spring Boot 2 Essentials 06 - Gerando projeto com start.spring.io](https://www.youtube.com/watch?v=sZGw-evH0OE&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=7/)
+---
+
+- ### [8 - Spring Boot 2 Essentials 07 - Método GET parte 1](https://www.youtube.com/watch?v=ChstGsjYly0&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=8/)
+---
+
+- ### [9 - Spring Boot 2 Essentials 08 - Método GET parte 2](https://www.youtube.com/watch?v=6ykxjpFrnJE&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=9/)
+---
+
+- ### [10 - Spring Boot 2 Essentials 09 - Método POST](https://www.youtube.com/watch?v=Mqw16-koH-8&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=10/)
+---
+
+- ### [11 - Spring Boot 2 Essentials 10 - Método DELETE](https://www.youtube.com/watch?v=yHHV_sr_gsI&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=11/)
+---
+
+- ### [12 - Spring Boot 2 Essentials 11 - Método PUT](https://www.youtube.com/watch?v=aJ43SfY8QKs&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=12/)
+---
+
+- ### [13 - Spring Boot 2 Essentials 12 - Instalando Docker e executando container MySQL](https://www.youtube.com/watch?v=ZPUC3wZgDoA&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=13/)
+---
+
+- ### [14 - Spring Boot 2 Essentials 13 - Spring Data JPA pt 01](https://www.youtube.com/watch?v=npW5nkMQ6Vs&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=14/)
+---
+
+- ### [15 - Spring Boot 2 Essentials 14 - Spring Data JPA pt 02](https://www.youtube.com/watch?v=JRA5w6FSw0E&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=15/)
+---
+
+- ### [16 - Spring Boot 2 Essentials 15 - Framework de Mapeamento MapStruct](https://www.youtube.com/watch?v=A9-Inky1Fjo&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=16/)
+---
+
+- ### [17 - Spring Boot 2 Essentials 16 - Request Params](https://www.youtube.com/watch?v=juVa6LYSYKg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=17/)
+---
+</p>
+
+</details>
 
