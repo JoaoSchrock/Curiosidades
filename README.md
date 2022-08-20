@@ -266,24 +266,44 @@ a pasta desejada
 - ### [39 - Spring Boot 2 Essentials 38 - Maven Profile Para Testes de Integração](https://www.youtube.com/watch?v=kb0b6d9Nayk&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=39/)
 ---
 
-- ### [40 - Spring Boot 2 Essentials 33 - Unit Tests pt 01](https://www.youtube.com/watch?v=XuAd2LHNjzY&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=34/)
+- ### [40 - Spring Boot 2 Essentials 39 - Spring Security pt 01 - Autenticação em memória](https://www.youtube.com/watch?v=tpGGuCyuSnw&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=40/)
 ---
 
-- ### [41 - Spring Boot 2 Essentials 40 - Spring Security pt 01 - CSRF Token](https://www.youtube.com/watch?v=lOzQnC4tRRI&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=41/)
+- ### [41 -Spring Boot 2 Essentials 40 - Spring Security pt 01 - CSRF Token](https://www.youtube.com/watch?v=lOzQnC4tRRI&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=41/)
 ---
 
 - ### [42 - Spring Boot 2 Essentials 41 - Spring Security pt 02 - Segurança a nível de métodos com PreAuthori](https://www.youtube.com/watch?v=4zrOtObXkK0&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=42/)
 ---
 
-- ### [43 - Spring Boot 2 Essentials 36 - Testes de Integração pt 01](https://www.youtube.com/watch?v=TREezi_evWc&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=37/)
+- ### [43 - Spring Boot 2 Essentials 42 - Spring Security pt 03 - Authentication Principal e página padrão de](https://www.youtube.com/watch?v=NZHLNeoUYWM&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=43/)
 ---
 
-- ### [44 - Spring Boot 2 Essentials 37 - Testes de Integração pt 02](https://www.youtube.com/watch?v=BFGKTdh8y1U&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=38/)
+- ### [44 - Spring Boot 2 Essentials 43 - Spring Security pt 04 - Autenticação com usuário no banco de dados](https://www.youtube.com/watch?v=6c9Nz-sG2EM&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=44/)
 ---
 
-- ### [45 - Spring Boot 2 Essentials 38 - Maven Profile Para Testes de Integração](https://www.youtube.com/watch?v=kb0b6d9Nayk&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=39/)
+- ### [45 - Spring Boot 2 Essentials 44 - Spring Security pt 05 - Proteção de URL com Antmatcher](https://www.youtube.com/watch?v=3JFOGa-c8eM&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=45/)
 ---
 
+- ### [46 - Spring Boot 2 Essentials 45 - Spring Security pt 06 - Testes de Integração com Spring Security](https://www.youtube.com/watch?v=LfVEd9KlFSQ&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=46/)
+---
+
+- ### [47 - Spring Boot 2 Essentials 46 - Documentação com SpringDoc OpenAPI pt 01](https://www.youtube.com/watch?v=UxnynWV4Rs0&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=47/)
+---
+
+- ### [48 - Spring Boot 2 Essentials 47 - Documentação com SpringDoc OpenAPI pt 02](https://www.youtube.com/watch?v=GodjXTjPtYg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=48/)
+---
+
+- ### [49 - Spring Boot 2 Essentials 48 - Spring Boot Actuator](https://www.youtube.com/watch?v=9nOMLOnXLHo&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=49/)
+---
+
+- ### [50 - Spring Boot 2 Essentials 49 - Monitorando aplicação com prometheus](https://www.youtube.com/watch?v=UKPTqzIdcPA&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=50/)
+---
+
+- ### [51 - Spring Boot 2 Essentials 50 - Monitorando métricas com gráficos no Grafana](https://www.youtube.com/watch?v=dvznW_hLTQs&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=51/)
+---
+
+- ### [52 - Spring Boot 2 Essentials 51 - Criado imagem com jib e executando via docker-compose](https://www.youtube.com/watch?v=CXvW0b4bDRY&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=52/)
+---
 
 </p>
 
