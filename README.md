@@ -145,9 +145,13 @@ Canal que tem um material muito bom de Spring
 a pasta desejada
 
 ```
+
+# Refêrencia para Estudo
 ## Spring Boot Essentials 2 (DevDojo)
 
-<details><summary>Clique e Acesse</summary>
+<details><summary>Clique👆</summary>
+   </p>
+   <details><summary>🎬Vídeos</summary>
 
 - ### [1 - Spring Boot 2 Essentials - Introdução ao curso](https://www.youtube.com/watch?v=bCzsSXE4Jzg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=1/)
 ---
@@ -308,4 +312,10 @@ a pasta desejada
 </p>
 
 </details>
+   </p>
+
+</details>
+
+
+
 
