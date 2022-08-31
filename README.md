@@ -158,6 +158,28 @@ spring.jackson.deserialization.fail-on-unknown-properties=true
 
 ```
 
+## Criando Aluno - Resources - db.Migration
+```
+CREATE TABLE aluno(
+codigo BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(50) NOT NULL
+
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO aluno (nome) values ('João silva');
+INSERT INTO aluno (nome) values ('João Pereira');
+INSERT INTO aluno (nome) values ('Maria Silva');
+
+
+
+}
+
+```
+
+
+
+
+
 
 
 
