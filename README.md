@@ -145,6 +145,18 @@ Canal que tem um material muito bom de Spring
 a pasta desejada
 
 ```
+## PARA ESCREVER NO - resources (application.properties)
+```
+spring.jpa.database=MYSQL
+spring.datasource.url=jdbc:mysql://localhost/demo?createDatabaseIfNotExist=true&useSSL=false
+spring.datasource.username=root
+spring.datasource.password=123456
+
+spring.jpa.show-sql=true
+
+spring.jackson.deserialization.fail-on-unknown-properties=true
+
+```
 
 
 
